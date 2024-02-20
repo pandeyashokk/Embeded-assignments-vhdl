@@ -8,9 +8,9 @@ Ensure you have the following software installed on your system:
 - Notepad++
 
 # Cloning the Repository
-'''bash
-git clone 
-'''
+ ```bash
+git clone https://github.com/pandeyashokk/Embeded-assignments-vhdl
+ ```
 
 # Installing GHDL
 Follow the instructions on the GHDL GitHub repository to install GHDL on your system.
@@ -32,4 +32,4 @@ ghdl -r test_bench_entity --vcd=vcd_file.vcd
 # Example command for GTKWave
 ```bash
 gtkwave vcd_file.vcd
-'''
+```
