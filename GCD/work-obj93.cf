@@ -1,0 +1,7 @@
+v 4
+file . "gcd_tb.vhdl" "b3170877d97c16d4fd048b9328464184b472e78a" "20240220063256.950":
+  entity gcd_tb at 1( 0) + 0 on 13;
+  architecture test of gcd_tb at 7( 80) + 0 on 14;
+file . "gcd.vhdl" "04b9266d53e70cd714ce12b391d07d50d9ac2f10" "20240220063251.387":
+  entity gcd_fsm at 1( 0) + 0 on 11;
+  architecture gcd_arch of gcd_fsm at 13( 235) + 0 on 12;
