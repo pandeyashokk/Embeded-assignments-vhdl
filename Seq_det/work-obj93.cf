@@ -1,0 +1,7 @@
+v 4
+file . "seqdet.vhdl" "c0ee35b7243955df1f8cb255f491fdcc7b29fe4a" "20240220060049.582":
+  entity sequence at 1( 0) + 0 on 21;
+  architecture seq_arch of sequence at 13( 188) + 0 on 22;
+file . "seqdet_tb.vhdl" "2ebb39331b3990aad5cdec3912e24a187b2aeeb6" "20240220060037.054":
+  entity sd_tb at 1( 0) + 0 on 19;
+  architecture seq_arch of sd_tb at 7( 80) + 0 on 20;
