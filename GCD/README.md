@@ -23,3 +23,5 @@ The FSM has the following states:
 
   ## FSM
 <img src="./gcd_fsm.png" alt="gcd">
+
+![Alt text](./gcd_fsm.png)
