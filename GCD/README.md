@@ -20,3 +20,6 @@ The FSM has the following states:
 
 ## Outputs
 - `gcd`: Output of the GCD calculation.
+
+  ## FSM
+<img src="./gcd_fsm.png" alt="gcd">
